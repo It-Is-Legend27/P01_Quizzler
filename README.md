@@ -12,7 +12,7 @@ A "QuizBrain" object is used to retrieve data from the FASTAPI created in the Py
 | :---: | ------------------------------- | ------------------------ |
 |   1   | [api.py](api.py)                | The FASTAPI controls the data for the quiz app.|
 |   2   | [questions.json](questions.json) | JSON file containing data for the quiz app.     |
-|   3   | [Quizzler App](.)  | The Flutter App, Quizzler, a quiz app. |
+|   3   | [Quizzler App](https://github.com/It-Is-Legend27/P04_Quizzler)  | The Flutter App, Quizzler, a quiz app. |
 
 
 ### Instructions
