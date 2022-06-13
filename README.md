@@ -1,16 +1,31 @@
-# quizzler_x
+## P04 - Quizzler w/ FASTAPI
+### Angel Badillo
+### Description:
 
-A new Flutter project.
+This is a simple quiz app that asks the user a series of true/false questions.
+A "QuizBrain" object is used to retrieve data from the FASTAPI created in the Python module, "api.py".
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Files
 
-A few resources to get you started if this is your first Flutter project:
+|   #   | File                            | Description              |
+| :---: | ------------------------------- | ------------------------ |
+|   1   | [api.py](api.py)                | The FASTAPI controls the data for the quiz app.|
+|   2   | [questions.json](questions.json) | JSON file containing data for the quiz app.     |
+|   3   | [Quizzler App](.)  | The Flutter App, Quizzler, a quiz app. |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Instructions
+
+- Go to the Github repo to download the Flutter App, Quizzler.
+- Run api.py on your local machine. Ensure questions.json is
+  in the same folder when you run it.
+- After you have the API running, open the Flutter app in Android Studio and get all the dependencies, then run the <br>
+  Flutter app, and the rest is straightforward, simply complete the quiz.
+- Side note: Do not attempt to make requests to the API via Postman or the browser while using the Quizzler App, <br>
+  as certain requests (e.g, reset, next) will affect the progression of the quiz.
+
+- Example Command:
+    - For running the API:
+        - cd (folder containing both api.py and questions.json)
+        - python api.py

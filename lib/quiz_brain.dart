@@ -1,10 +1,10 @@
-/// Author: Angel Badillo Hernandez
+/// Angel Badillo Hernandez / @It-IsLegend27
 ///
-/// Github: @It-Is-Legend27
+/// Assignment 4: Quizzler w/ FastApi
 ///
-/// Description:
+/// Class: CMPS-4443-101: MOB
 ///
-/// This package allows the user to make get requests from the
+/// Description: This package allows the user to make get requests from the
 /// localhost:8888 API (api.py).
 ///
 /// Functions:
@@ -21,7 +21,7 @@
 import 'package:http/http.dart' as http;
 import 'dart:convert' as convert;
 
-const String _host = '192.168.1.76:8080';
+const String _host = 'localhost:8080';
 
 class QuizBrain {
   QuizBrain() {

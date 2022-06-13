@@ -1,4 +1,4 @@
-/// Author: Angel Badillo Hernandez / @It-IsLegend27
+/// Angel Badillo Hernandez / @It-IsLegend27
 ///
 /// Assignment 4: Quizzler w/ FastApi
 ///
