@@ -1,4 +1,4 @@
-## P04 - Quizzler w/ FASTAPI
+## P01 - Quizzler w/ FASTAPI
 ### Angel Badillo
 ### Description:
 
@@ -12,7 +12,7 @@ A "QuizBrain" object is used to retrieve data from the FASTAPI created in the Py
 | :---: | ------------------------------- | ------------------------ |
 |   1   | [api.py](https://github.com/It-Is-Legend27/4443-MOB-Badillo/blob/main/Assignments/A04/api.py)                | The FASTAPI controls the data for the quiz app.|
 |   2   | [questions.json](https://github.com/It-Is-Legend27/4443-MOB-Badillo/blob/main/Assignments/A04/questions.json) | JSON file containing data for the quiz app.     |
-|   3   | [Quizzler App](https://github.com/It-Is-Legend27/P04_Quizzler)  | The Flutter App, Quizzler, a quiz app. |
+|   3   | [Quizzler App](https://github.com/It-Is-Legend27/P01_Quizzler)  | The Flutter App, Quizzler, a quiz app. |
 
 
 ### Instructions
