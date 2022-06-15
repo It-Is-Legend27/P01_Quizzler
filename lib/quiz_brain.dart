@@ -1,6 +1,6 @@
 /// Angel Badillo Hernandez / @It-IsLegend27
 ///
-/// Assignment 4: Quizzler w/ FastApi
+/// Project 1: Quizzler w/ FastApi
 ///
 /// Class: CMPS-4443-101: MOB
 ///
